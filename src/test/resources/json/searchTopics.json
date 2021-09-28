@@ -1,0 +1,97 @@
+{
+  "total_count": 7,
+  "incomplete_results": false,
+  "items": [
+    {
+      "name": "python",
+      "display_name": "Python",
+      "short_description": "Python is a dynamically typed programming language.",
+      "description": "Python is a dynamically-typed garbage-collected programming language developed by Guido van Rossum in the late 80s to replace ABC. Much like the programming language Ruby, Python was designed to be easily read by programmers. Because of its large following and many libraries, Python can be implemented and used to do anything from webpages to scientific research.",
+      "created_by": "Guido van Rossum",
+      "released": "February 20, 1991",
+      "created_at": "2016-12-07T00:07:02Z",
+      "updated_at": "2021-09-27T20:28:43Z",
+      "featured": true,
+      "curated": true,
+      "score": 1.0
+    },
+    {
+      "name": "django",
+      "display_name": "Django",
+      "short_description": "Django is a web application framework for Python.",
+      "description": "Django is a web application framework for Python. It is designed to prioritize principles of reusability and rapid development.",
+      "created_by": "Adrian Holovaty, Simon Willison",
+      "released": "21 July 2005",
+      "created_at": "2017-01-31T20:40:48Z",
+      "updated_at": "2021-09-27T20:34:11Z",
+      "featured": true,
+      "curated": true,
+      "score": 1.0
+    },
+    {
+      "name": "flask",
+      "display_name": "Flask",
+      "short_description": "Flask is a web framework for Python based on the Werkzeug toolkit.",
+      "description": "Flask is a web framework for Python, based on the Werkzeug toolkit.",
+      "created_by": "Armin Ronacher",
+      "released": "April 1, 2010",
+      "created_at": "2016-12-25T23:31:26Z",
+      "updated_at": "2021-09-27T20:26:56Z",
+      "featured": true,
+      "curated": true,
+      "score": 1.0
+    },
+    {
+      "name": "scikit-learn",
+      "display_name": "scikit-learn",
+      "short_description": "scikit-learn is a Python module for machine learning.",
+      "description": "scikit-learn is a widely-used Python module for classic machine learning. It is built on top of SciPy.",
+      "created_by": "David Cournapeau",
+      "released": "January 05, 2010",
+      "created_at": "2017-01-31T21:47:19Z",
+      "updated_at": "2021-09-27T17:33:41Z",
+      "featured": true,
+      "curated": true,
+      "score": 1.0
+    },
+    {
+      "name": "ruby",
+      "display_name": "Ruby",
+      "short_description": "Ruby is a scripting language designed for simplified object-oriented programming.",
+      "description": "Ruby was developed by Yukihiro \"Matz\" Matsumoto in 1995 with the intent of having an easily readable programming language. It is used by the Rails framework to create dynamic web-applications. Ruby's syntax is similar to that of Perl and Python.",
+      "created_by": "Yukihiro Matsumoto",
+      "released": "December 21, 1995",
+      "created_at": "2016-11-28T22:03:59Z",
+      "updated_at": "2021-09-27T15:28:03Z",
+      "featured": true,
+      "curated": true,
+      "score": 1.0
+    },
+    {
+      "name": "wagtail",
+      "display_name": "Wagtail",
+      "short_description": "Wagtail is an open source CMS written in Python and built on the Django web framework.",
+      "description": "Wagtail is a free and open source content management system (CMS) written in Python. The project has a focus on developer friendliness as well as ease of use of its administration interface, translated in multiple languages.",
+      "created_by": "Torchbox",
+      "released": "February 2014",
+      "created_at": "2017-01-31T21:34:25Z",
+      "updated_at": "2021-09-27T13:55:47Z",
+      "featured": true,
+      "curated": true,
+      "score": 1.0
+    },
+    {
+      "name": "spacevim",
+      "display_name": "SpaceVim",
+      "short_description": "SpaceVim is a community-driven distribution of the vim editor that allows managing your plugins in layers.",
+      "description": "SpaceVim is a distribution of the vim editor that's inspired by [spacemacs](https://github.com/syl20bnr/spacemacs). It manages collections of plugins in layers, which help collect related packages together to provide features. For example, the [python layer](http://spacevim.org/layers/lang/python/) collects [deoplete.nvim](https://github.com/Shougo/deoplete.nvim/), [neomake](https://github.com/neomake/neomake), and [jedi-vim](https://github.com/davidhalter/jedi-vim) together to provide autocompletion, syntax checking, and documentation lookup. This approach helps keep configuration organized and reduces overhead for the user by keeping them from having to think about what packages to install.",
+      "created_by": "Wang Shidong",
+      "released": "January 26, 2017",
+      "created_at": "2017-02-01T07:22:06Z",
+      "updated_at": "2021-09-27T07:07:51Z",
+      "featured": true,
+      "curated": true,
+      "score": 1.0
+    }
+  ]
+}
