@@ -43,7 +43,6 @@ public class SearchCodeTest extends TestBase {
         public void validateResponseMessage() throws IOException, JSONException {
         String responseString = EntityUtils.toString(closeableHttpResponse.getEntity());
         MyClass<SearchCodeResource> myClass = new MyClass<SearchCodeResource>(SearchCodeResource.class);
-        //myClass.getApiResponse(String.valueOf(responseString), file);
         myClass.getApiResponse(String.valueOf(responseString), file);
     }
 }
